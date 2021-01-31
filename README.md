@@ -11,6 +11,6 @@
 
 ### Find me on
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ignacio_Agustin_Garcia_Ravlic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
-[![Telegram Badge](https://img.shields.io/badge/-@IgnaGarciaRavlic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/IgnaGarciaRavlic)](https://t.me/IgnaGarciaRavlic) 
-[![Website Badge](https://img.shields.io/badge/-Igna_Garcia_Ravlic-blue?style=flat-square&logo=Website&logoColor=white&link=https://ignagarcia.vercel.app)](https://ignagarcia.vercel.app)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-fb8c00?style=flat-square&logo=Linkedin&logoColor=212121&link=https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
+[![Website Badge](https://img.shields.io/badge/-Website-fb8c00?style=flat-square&logo=website&logoColor=212121&link=https://ignagarcia.vercel.app)](https://ignagarcia.vercel.app)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-fb8c00?style=flat-square&labelColor=212121&logo=telegram&logoColor=212121&link=https://t.me/IgnaGarciaRavlic)](https://t.me/IgnaGarciaRavlic) 
