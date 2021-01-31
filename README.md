@@ -1,4 +1,4 @@
-# Hello everyone, I'm **Igna Garcia**
+# Hello everyone, I'm **Igna Garcia Ravlic**
 ---
 
 ### About me
@@ -11,12 +11,6 @@
 
 ### Find me on
 
-<a href="https://ignagarcia.vercel.app">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/misc/web.svg" alt="Igna Garcia's website" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="Igna Garcia's profile on LinkedIn" style="vertical-align:top margin:6px 4px">
-</a>
-<a href="https://t.me/IgnaGarciaRavlic">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/telegram.svg" alt="Igna Garcia's Telegram" style="vertical-align:top margin:6px 4px">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-Ignacio_Agustin_Garcia_Ravlic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
+[![Telegram Badge](https://img.shields.io/badge/-@IgnaGarciaRavlic-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/IgnaGarciaRavlic)](https://t.me/IgnaGarciaRavlic) 
+[![Website Badge](https://img.shields.io/badge/-Igna_Garcia_Ravlic-blue?style=flat-square&logo=Website&logoColor=white&link=https://ignagarcia.vercel.app)](https://ignagarcia.vercel.app)
