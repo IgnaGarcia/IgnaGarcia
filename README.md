@@ -1,5 +1,4 @@
 # Hello everyone, I'm **Igna Garcia Ravlic**
----
 
 ### About me
 
@@ -10,8 +9,6 @@
 
 
 ### Find me on
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-b71c1c??style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
-
-[![Website Badge](https://img.shields.io/badge/-Website-b71c1c??style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
-
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-b71c1c??style=for-the-badge&logo=Telegram&logoColor=white)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-b71c1c?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
+[![Website Badge](https://img.shields.io/badge/-Website-b71c1c?style=for-the-badge&logo=web&logoColor=white)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-b71c1c?style=for-the-badge&logo=Telegram&logoColor=white)](https://www.linkedin.com/in/ignacio-agustin-garcia-ravlic-491b9a188/)
