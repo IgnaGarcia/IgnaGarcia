@@ -3,9 +3,9 @@
 ### :alien: About me
 
 - :mortar_board: I’m student in **Computer Science** degree at [Universidad Nacional del Oeste](http://www.uno.edu.ar), Buenos Aires, Argentina.
-- :rocket: I’m currently working with **ReactJS** & **Kotlin**.
-- :memo: I’m currently working as a **Research Assistant**.
-- 🌱 I’m currently learning Android Development with **Kotlin**.
+- :rocket: I’m currently working with ####**ReactJS** & **Kotlin**.
+- :memo: I’m currently working as a ####**Research Assistant**.
+- 🌱 I’m currently learning Android Development with ####**Kotlin**.
 
 
 ### :mag: Find me on
