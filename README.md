@@ -3,9 +3,10 @@
 ### :alien: About me
 
 - :mortar_board: I’m student in ***Computer Science*** degree at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar), Buenos Aires, Argentina.
-- :rocket: I’m currently working with ***ReactJS** & **Tensorflow***.
-- :memo: I’m currently working as a ***Research Assistant***.
-- 🌱 I’m currently learning WindowsApp Development with ***Delphi, Object Pascal*** & Backend Development with ***NodeJS*** & ***Spring Boot***.
+- :robot: I’m currently working as ***Android Developer*** with ***Kotlin***.
+- :bar_chart: I’m currently working as a ***Research Assistant*** with ***Python** & **Tensorflow***.
+- :memo: I’m currently working as a ***Research Assistant*** with ***Python** & **Tensorflow***.
+- :rocket: I’m currently learning Frontend Develpment with ***Angular*** and Backend Development with ***C#***.
 
 
 ### :mag: Find me on
