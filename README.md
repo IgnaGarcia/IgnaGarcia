@@ -5,7 +5,7 @@
 - :mortar_board: I’m student in ***Computer Science*** degree at [***Universidad Nacional del Oeste***](http://www.uno.edu.ar), Buenos Aires, Argentina.
 - :robot: I’m currently working as ***Android Developer*** with ***Kotlin***.
 - :bar_chart: I’m currently working as a ***Research Assistant*** with ***Python** & **Tensorflow***.
-- :memo: I’m currently working as a ***Research Assistant*** with ***Python** & **Tensorflow***.
+- :memo: I’m currently working as a ***Programing Teacher*** with ***Java** & **SQL***.
 - :rocket: I’m currently learning Frontend Develpment with ***Angular*** and Backend Development with ***C#***.
 
 
